@@ -2,7 +2,6 @@ import os
 import sys
 import requests
 import base64
-import base64
 import random
 import string
 
